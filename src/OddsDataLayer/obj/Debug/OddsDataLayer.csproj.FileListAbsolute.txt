@@ -1,0 +1,12 @@
+D:\Derek\Projects\NBA\OddsDataLayer\obj\Debug\OddsDataLayer.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\NBA\OddsDataLayer\bin\Debug\OddsDataLayer.dll
+D:\Derek\Projects\NBA\OddsDataLayer\bin\Debug\OddsDataLayer.pdb
+D:\Derek\Projects\NBA\OddsDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Derek\Projects\NBA\OddsDataLayer\obj\Debug\OddsDataLayer.dll
+D:\Derek\Projects\NBA\OddsDataLayer\obj\Debug\OddsDataLayer.pdb
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\bin\Debug\OddsDataLayer.dll
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\bin\Debug\OddsDataLayer.pdb
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\obj\Debug\OddsDataLayer.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\obj\Debug\OddsDataLayer.dll
+D:\Derek\Projects\datacrawl\src\OddsDataLayer\obj\Debug\OddsDataLayer.pdb

@@ -1,0 +1,14 @@
+D:\Derek\Projects\NBA\consdd\bin\Debug\consdd.exe
+D:\Derek\Projects\NBA\consdd\bin\Debug\consdd.pdb
+D:\Derek\Projects\NBA\consdd\bin\Debug\OddsDataLayer.dll
+D:\Derek\Projects\NBA\consdd\bin\Debug\SinaDailyBLL.dll
+D:\Derek\Projects\NBA\consdd\obj\Debug\consdd.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\NBA\consdd\obj\Debug\consdd.exe
+D:\Derek\Projects\NBA\consdd\obj\Debug\consdd.pdb
+D:\Derek\Projects\datacrawl\src\consdd\obj\Debug\consdd.exe
+D:\Derek\Projects\datacrawl\src\consdd\obj\Debug\consdd.pdb
+D:\Derek\Projects\datacrawl\src\consdd\bin\Debug\consdd.exe
+D:\Derek\Projects\datacrawl\src\consdd\bin\Debug\consdd.pdb
+D:\Derek\Projects\datacrawl\src\consdd\bin\Debug\OddsDataLayer.dll
+D:\Derek\Projects\datacrawl\src\consdd\bin\Debug\SinaDailyBLL.dll
+D:\Derek\Projects\datacrawl\src\consdd\obj\Debug\consdd.csprojResolveAssemblyReference.cache

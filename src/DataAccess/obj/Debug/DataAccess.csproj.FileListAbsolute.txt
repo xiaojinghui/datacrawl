@@ -1,0 +1,12 @@
+D:\Derek\Projects\NBA\DataAccess\bin\Debug\DataAccess.dll
+D:\Derek\Projects\NBA\DataAccess\bin\Debug\DataAccess.pdb
+D:\Derek\Projects\NBA\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Derek\Projects\NBA\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\NBA\DataAccess\obj\Debug\DataAccess.dll
+D:\Derek\Projects\NBA\DataAccess\obj\Debug\DataAccess.pdb
+D:\Derek\Projects\datacrawl\src\DataAccess\bin\Debug\DataAccess.dll
+D:\Derek\Projects\datacrawl\src\DataAccess\bin\Debug\DataAccess.pdb
+D:\Derek\Projects\datacrawl\src\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Derek\Projects\datacrawl\src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\datacrawl\src\DataAccess\obj\Debug\DataAccess.dll
+D:\Derek\Projects\datacrawl\src\DataAccess\obj\Debug\DataAccess.pdb

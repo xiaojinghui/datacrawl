@@ -1,0 +1,2 @@
+D:\Derek\Projects\NBA\SinaDailyBLL\obj\Debug\SinaDailyBLL.csprojResolveAssemblyReference.cache
+D:\Derek\Projects\datacrawl\src\SinaDailyBLL\obj\Debug\SinaDailyBLL.csprojResolveAssemblyReference.cache
